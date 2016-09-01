@@ -1,0 +1,3 @@
+## Modman file
+app/code/community/GoMedia/Webhook/ app/code/community/GoMedia/Webhook/
+app/etc/modules/GoMedia_Webhook.xml app/etc/modules/GoMedia_Webhook.xml
